@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-03-08 17:13+0800\n"
+"PO-Revision-Date: 2014-03-14 15:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: C:\\projects\\s.iol8.wordpress\\trunk\\main\\web\\wp-"
+"content\\plugins\\iol-translation\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: iol-translation.php:90
+msgid "Simple Chinese"
+msgstr "中文简体"
+
+#: iol-translation.php:91
+msgid "English"
+msgstr "英文"
+
+#: iol-translation.php:92
+msgid "Japanese"
+msgstr "日文"
+
+#: iol-translation.php:93
+msgid "French"
+msgstr "法文"
+
+#: iol-translation.php:94
+msgid "German"
+msgstr "德文"
+
+#: iol-translation.php:95
+msgid "Russian"
+msgstr "俄文"
+
+#: iol-translation.php:96
+msgid "Korea"
+msgstr "韩文"
+
+#: iol-translation.php:97
+msgid "Dutch"
+msgstr "荷兰语"
+
+#: iol-translation.php:98
+msgid "Italian"
+msgstr "意大利语"
+
+#: iol-translation.php:99
+msgid "Spanish"
+msgstr "西班牙语"
+
+#: iol-translation.php:100
+msgid "Portuguese"
+msgstr "葡萄牙语"
+
+#: iol-translation.php:101
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+#: iol-translation.php:102
+msgid "Turkish"
+msgstr "土耳其语"
+
+#: iol-translation.php:103
+msgid "Thai"
+msgstr "泰语"
+
+#: iol-translation.php:104
+msgid "Ukrainian"
+msgstr "乌克兰语"
+
+#: iol-translation.php:105
+msgid "Denish"
+msgstr "丹麦语"
+
+#: iol-translation.php:106
+msgid "Norwegian"
+msgstr "挪威语"
+
+#: iol-translation.php:107
+msgid "Finnish"
+msgstr "芬兰语"
+
+#: iol-translation.php:108
+msgid "Greek"
+msgstr "希腊语"
+
+#: iol-translation.php:109
+msgid "Polish"
+msgstr "波兰语"
+
+#: iol-translation.php:110
+msgid "Romanian"
+msgstr "罗马尼亚语"
+
+#: iol-translation.php:111
+msgid "Bulgarian"
+msgstr "保加利亚语"
+
+#: iol-translation.php:112
+msgid "Czech"
+msgstr "捷克语"
+
+#: iol-translation.php:113
+msgid "Slovak"
+msgstr "斯洛伐克语"
+
+#: iol-translation.php:114
+msgid "Hungarian"
+msgstr "匈牙利语"
+
+#: iol-translation.php:115
+msgid "Rabbinic"
+msgstr "希伯来语"
+
+#: iol-translation.php:116
+msgid "Swedish"
+msgstr "瑞典语"
+
+#: iol-translation.php:117
+msgid "Croatian"
+msgstr "克罗地亚语"
+
+#: iol-translation.php:118
+msgid "Albanian"
+msgstr "阿尔巴尼亚语"
+
+#: iol-translation.php:119
+msgid "Traditional Chinese (Taiwan)"
+msgstr "中文繁体（台湾）"
+
+#: iol-translation.php:120
+msgid "Traditional Chinese (HongKong)"
+msgstr "中文繁体（香港）"
+
+#: iol-translation.php:121
+msgid "Korean"
+msgstr "朝鲜语"
+
+#: iol-translation.php:122
+msgid "Serbian"
+msgstr "塞尔维亚语"
+
+#: iol-translation.php:123
+msgid "Portuguese(Brazil)"
+msgstr "葡萄牙语（巴西）"
+
+#: action/admin_account.php:15
+msgid "Authentication success"
+msgstr "验证成功"
+
+#: action/admin_account.php:20
+msgid "Email account and password do not match"
+msgstr "邮件或者密码错误"
+
+#: action/admin_account.php:36
+msgid "User Account"
+msgstr "用户账户"
+
+#: action/admin_account.php:45 action/admin_account.php:67
+msgid "Email"
+msgstr "邮箱"
+
+#: action/admin_account.php:49
+msgid "Password"
+msgstr "密码"
+
+#: action/admin_account.php:56
+msgid "New to IOL"
+msgstr "尚未注册"
+
+#: action/admin_account.php:56
+msgid "Register now"
+msgstr "立即注册"
+
+#: action/admin_account.php:74
+msgid "Logout"
+msgstr "注销"
+
+#: action/admin_languages.php:22 action/admin_languages.php:30
+#: action/admin_languages.php:31
+#: lib/init/iol_translation_admin_init_menu.class.php:90
+msgid "Languages"
+msgstr "语言"
+
+#: action/admin_languages.php:56
+msgid "Save Changes"
+msgstr "保存修改"
+
+#: action/admin_order.php:37
+msgid "Id"
+msgstr "Id"
+
+#: action/admin_order.php:51 action/admin_show_order_details.php:13
+msgid "Order ID"
+msgstr "订单 Id"
+
+#: action/admin_order.php:63 action/admin_show_order_details.php:70
+msgid "Created At"
+msgstr "创建时间"
+
+#: action/admin_order.php:76 action/admin_show_order_details.php:33
+msgid "Payment Status"
+msgstr "支付状态"
+
+#: action/admin_order.php:88 action/admin_show_order_details.php:43
+msgid "Translation Status"
+msgstr "翻译状态"
+
+#: action/admin_order.php:100 action/admin_show_order_details.php:23
+#: action/admin_show_order_details.php:69
+msgid "Price"
+msgstr "价格"
+
+#: action/admin_order.php:112
+msgid "Level"
+msgstr "等级"
+
+#: action/admin_order.php:123
+msgid "Action"
+msgstr "动作"
+
+#: action/admin_order.php:135 action/admin_show_order_details.php:34
+msgid "unpaid"
+msgstr "未支付"
+
+#: action/admin_order.php:135 action/admin_show_order_details.php:34
+msgid "paid"
+msgstr "已支付"
+
+#: action/admin_order.php:136 action/admin_show_order_details.php:44
+msgid "pending"
+msgstr "未完成"
+
+#: action/admin_order.php:136 action/admin_show_order_details.php:44
+msgid "done"
+msgstr "已完成"
+
+#: action/admin_order.php:138 action/admin_show_order_details.php:19
+#: action/official_meta_box.php:34 action/unofficial_meta_box.php:40
+#: lib/bulk/iol_translation_bulk_post.class.php:80
+#: lib/bulk/iol_translation_bulk_term.class.php:75
+msgid "Professional translation"
+msgstr "专业翻译"
+
+#: action/admin_order.php:138 action/admin_show_order_details.php:19
+#: action/official_meta_box.php:35 action/unofficial_meta_box.php:41
+#: lib/bulk/iol_translation_bulk_post.class.php:81
+#: lib/bulk/iol_translation_bulk_term.class.php:76
+msgid "Standard translation"
+msgstr "标准翻译"
+
+#: action/admin_order.php:142 action/admin_order.php:144
+msgid "Delete"
+msgstr "删除"
+
+#: action/admin_order.php:147
+msgid "Pay"
+msgstr "支付"
+
+#: action/admin_order.php:167 action/admin_show_order_details.php:103
+msgid "&laquo;"
+msgstr ""
+
+#: action/admin_order.php:168 action/admin_show_order_details.php:104
+msgid "&raquo;"
+msgstr ""
+
+#: action/admin_order.php:182
+msgid "After you delete the current record"
+msgstr "删除当前记录后"
+
+#: action/admin_order.php:182
+msgid "is not recoverable"
+msgstr "不可恢复"
+
+#: action/admin_order.php:182
+msgid "Are you sure to delete the current record"
+msgstr "你确定删除当前记录吗"
+
+#: action/admin_show_order_details.php:18
+msgid "Translation Level"
+msgstr "翻译等级"
+
+#: action/admin_show_order_details.php:28
+#: action/admin_show_order_details.php:66
+msgid "Word Count"
+msgstr "单词数量"
+
+#: action/admin_show_order_details.php:38
+msgid "Payment Transaction"
+msgstr "支付交易"
+
+#: action/admin_show_order_details.php:63
+msgid "ID"
+msgstr "ID"
+
+#: action/admin_show_order_details.php:64
+msgid "Manuscript ID"
+msgstr "原稿 ID"
+
+#: action/admin_show_order_details.php:65
+msgid "Type"
+msgstr "类型"
+
+#: action/admin_show_order_details.php:67
+msgid "Source Language"
+msgstr "源语言"
+
+#: action/admin_show_order_details.php:68
+msgid "Target Language"
+msgstr "目标语言"
+
+#: action/admin_show_order_details.php:71
+msgid "Translation Time"
+msgstr "翻译时间"
+
+#: action/official_meta_box.php:20 action/unofficial_meta_box.php:26
+#: lib/bulk/iol_translation_bulk_post.class.php:66
+#: lib/bulk/iol_translation_bulk_term.class.php:61
+msgid "Translation from"
+msgstr "翻译从"
+
+#: action/official_meta_box.php:26 action/unofficial_meta_box.php:32
+#: lib/bulk/iol_translation_bulk_post.class.php:72
+#: lib/bulk/iol_translation_bulk_term.class.php:67
+msgid "into"
+msgstr "到"
+
+#: action/official_meta_box.php:32 action/unofficial_meta_box.php:38
+#: lib/bulk/iol_translation_bulk_post.class.php:78
+#: lib/bulk/iol_translation_bulk_term.class.php:73
+msgid "using"
+msgstr "使用"
+
+#: action/official_meta_box.php:38
+#: lib/bulk/iol_translation_bulk_post.class.php:23
+#: lib/bulk/iol_translation_bulk_post.class.php:24
+#: lib/bulk/iol_translation_bulk_term.class.php:19
+#: lib/bulk/iol_translation_bulk_term.class.php:20
+msgid "Inquiry"
+msgstr "查询"
+
+#: action/official_meta_box.php:44 action/unofficial_meta_box.php:51
+#: lib/bulk/iol_translation_bulk_post.class.php:91
+#: lib/bulk/iol_translation_bulk_term.class.php:86
+msgid "Translation requirements"
+msgstr "翻译要求"
+
+#: action/official_meta_box.php:48
+msgid "Submit"
+msgstr "提交"
+
+#: action/official_meta_box.php:49
+msgid "Cancel"
+msgstr "取消"
+
+#: action/official_meta_box.php:64 action/unofficial_meta_box.php:71
+#: lib/bulk/iol_translation_bulk_post.class.php:156
+#: lib/bulk/iol_translation_bulk_post.class.php:162
+#: lib/bulk/iol_translation_bulk_term.class.php:151
+#: lib/bulk/iol_translation_bulk_term.class.php:157
+msgid "please select items"
+msgstr "请选择项目"
+
+#: action/official_meta_box.php:69 action/unofficial_meta_box.php:76
+#: lib/bulk/iol_translation_bulk_post.class.php:167
+#: lib/bulk/iol_translation_bulk_term.class.php:162
+msgid "The source language and target language can not be same"
+msgstr "源语言和翻译语言不能相同"
+
+#: action/unofficial_meta_box.php:6
+#: lib/init/iol_translation_admin_init_menu.class.php:68
+#: lib/init/iol_translation_admin_init_menu.class.php:69
+msgid "Translation"
+msgstr "翻译"
+
+#: action/unofficial_meta_box.php:21
+msgid "Translation same properties for all subcategories"
+msgstr "翻译所有子类别相同的属性"
+
+#: lib/iol_translation_ajax_check_all_helper.php:9
+#: lib/iol_translation_ajax_check_all_helper.php:219
+#: lib/iol_translation_ajax_helper.php:10
+#: lib/iol_translation_ajax_helper.php:261
+msgid "Fail to inquiry"
+msgstr "询价失败"
+
+#: lib/iol_translation_ajax_check_all_helper.php:9
+#: lib/iol_translation_ajax_check_all_helper.php:219
+#: lib/iol_translation_ajax_helper.php:10
+#: lib/iol_translation_ajax_helper.php:261
+msgid "Please check your network"
+msgstr "请检查网络"
+
+#: lib/iol_translation_ajax_check_all_helper.php:9
+#: lib/iol_translation_ajax_check_all_helper.php:219
+#: lib/iol_translation_ajax_helper.php:10
+#: lib/iol_translation_ajax_helper.php:261
+msgid "or your account is valid"
+msgstr "或者查看你的账号是否有效"
+
+#: lib/iol_translation_ajax_check_all_helper.php:205
+#: lib/iol_translation_ajax_helper.php:544
+msgid "The order has been submitted"
+msgstr "订单已经提交"
+
+#: lib/iol_translation_ajax_check_all_helper.php:208
+#: lib/iol_translation_ajax_helper.php:547
+msgid "Submit fails"
+msgstr "提交失败"
+
+#: lib/iol_translation_ajax_check_all_helper.php:309
+#: lib/iol_translation_ajax_check_all_helper.php:375
+#: lib/iol_translation_ajax_check_all_helper.php:426
+#: lib/iol_translation_ajax_check_all_helper.php:477
+#: lib/iol_translation_ajax_helper.php:342
+#: lib/iol_translation_ajax_helper.php:407
+#: lib/iol_translation_ajax_helper.php:460
+#: lib/iol_translation_ajax_helper.php:511
+#: lib/iol_translation_ajax_helper.php:565
+msgid "It already exists in the orders"
+msgstr "它已经在订单中"
+
+#: lib/iol_translation_ajax_check_all_helper.php:313
+#: lib/iol_translation_ajax_check_all_helper.php:379
+#: lib/iol_translation_ajax_check_all_helper.php:430
+#: lib/iol_translation_ajax_check_all_helper.php:481
+#: lib/iol_translation_ajax_helper.php:569
+msgid "Found"
+msgstr "发现"
+
+#: lib/iol_translation_ajax_check_all_helper.php:314
+#: lib/iol_translation_ajax_check_all_helper.php:380
+#: lib/iol_translation_ajax_check_all_helper.php:431
+#: lib/iol_translation_ajax_check_all_helper.php:482
+#: lib/iol_translation_ajax_helper.php:570
+msgid "attribute(s) in "
+msgstr "个翻译内容在"
+
+#: lib/iol_translation_ajax_check_all_helper.php:315
+#: lib/iol_translation_ajax_check_all_helper.php:381
+#: lib/iol_translation_ajax_check_all_helper.php:432
+#: lib/iol_translation_ajax_check_all_helper.php:483
+#: lib/iol_translation_ajax_helper.php:571
+msgid "item(s)"
+msgstr "篇文章中"
+
+#: lib/iol_translation_ajax_check_all_helper.php:316
+#: lib/iol_translation_ajax_check_all_helper.php:382
+#: lib/iol_translation_ajax_check_all_helper.php:433
+#: lib/iol_translation_ajax_check_all_helper.php:484
+#: lib/iol_translation_ajax_helper.php:572
+msgid "attribute(s) need to be translated"
+msgstr "个待翻译内容需要被翻译"
+
+#: lib/iol_translation_ajax_check_all_helper.php:495
+#: lib/iol_translation_ajax_helper.php:533
+msgid "Contain"
+msgstr "包含"
+
+#: lib/iol_translation_ajax_check_all_helper.php:495
+#: lib/iol_translation_ajax_helper.php:533
+msgid "words to translate"
+msgstr "单词将要翻译"
+
+#: lib/iol_translation_ajax_check_all_helper.php:495
+#: lib/iol_translation_ajax_helper.php:533
+msgid "Translation costs"
+msgstr "翻译价格"
+
+#: lib/iol_translation_ajax_check_all_helper.php:497
+#: lib/iol_translation_ajax_check_all_helper.php:500
+#: lib/iol_translation_ajax_helper.php:535
+#: lib/iol_translation_ajax_helper.php:538
+msgid "Inquiry false"
+msgstr "数据通讯错误"
+
+#: lib/iol_translation_ajax_helper.php:71
+#: lib/iol_translation_ajax_helper.php:119
+#: lib/iol_translation_ajax_helper.php:162
+#: lib/iol_translation_ajax_helper.php:202
+msgid "items"
+msgstr "项目"
+
+#: lib/iol_translation_ajax_helper.php:71
+#: lib/iol_translation_ajax_helper.php:119
+#: lib/iol_translation_ajax_helper.php:162
+#: lib/iol_translation_ajax_helper.php:202
+msgid "have been transalted"
+msgstr "被翻译过了"
+
+#: lib/iol_translation_ajax_helper.php:324
+#: lib/iol_translation_ajax_helper.php:389
+#: lib/iol_translation_ajax_helper.php:448
+#: lib/iol_translation_ajax_helper.php:499
+msgid "Your selection is empty"
+msgstr "你选定的内容是空的"
+
+#: lib/iol_translation_ajax_helper.php:324
+#: lib/iol_translation_ajax_helper.php:389
+#: lib/iol_translation_ajax_helper.php:448
+#: lib/iol_translation_ajax_helper.php:499
+msgid "this order was invalid"
+msgstr "此订单无效"
+
+#: lib/iol_translation_ajax_helper.php:324
+#: lib/iol_translation_ajax_helper.php:389
+#: lib/iol_translation_ajax_helper.php:448
+#: lib/iol_translation_ajax_helper.php:499
+msgid "Please select again"
+msgstr "请重新选择"
+
+#: lib/bulk/iol_translation_bulk_post.class.php:103
+#: lib/bulk/iol_translation_bulk_term.class.php:98
+msgid "Cancel Translation"
+msgstr "取消翻译"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:9
+msgid "IOL Translation"
+msgstr "翻译管理"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:87
+msgid "Settings"
+msgstr "设置"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:88
+msgid "Orders"
+msgstr "翻译订单"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:89
+msgid "Account"
+msgstr "账户"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:91
+msgid "Demo"
+msgstr "Demo"
+
+#: action/admin_order.php:31
+msgid "Translation Orders"
+msgstr "翻译订单"
+
+#: action/admin_show_order_details.php:120
+msgid "Back"
+msgstr "返回"
+
+#: action/admin_show_order_details.php:6
+msgid "order"
+msgstr "订单"
+
+msgid "Updated successful"
+msgstr "更新成功"
+
+msgid "Please select language"
+msgstr "请选择语言"
+
+msgid "category(s)"
+msgstr "分类目录中"
+
+msgid "tag(s)"
+msgstr "标签中"
+
+msgid "page(s)"
+msgstr "页面中"

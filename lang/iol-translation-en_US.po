@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-03-08 17:06+0800\n"
+"PO-Revision-Date: 2014-03-14 15:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: C:\\projects\\s.iol8.wordpress\\trunk\\main\\web\\wp-"
+"content\\plugins\\iol-translation\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: iol-translation.php:90
+msgid "Simple Chinese"
+msgstr "Simple Chinese"
+
+#: iol-translation.php:91
+msgid "English"
+msgstr "English"
+
+#: iol-translation.php:92
+msgid "Japanese"
+msgstr "Japanese"
+
+#: iol-translation.php:93
+msgid "French"
+msgstr "French"
+
+#: iol-translation.php:94
+msgid "German"
+msgstr "German"
+
+#: iol-translation.php:95
+msgid "Russian"
+msgstr "Russian"
+
+#: iol-translation.php:96
+msgid "Korea"
+msgstr "Korea"
+
+#: iol-translation.php:97
+msgid "Dutch"
+msgstr "Dutch"
+
+#: iol-translation.php:98
+msgid "Italian"
+msgstr "Italian"
+
+#: iol-translation.php:99
+msgid "Spanish"
+msgstr "Spanish"
+
+#: iol-translation.php:100
+msgid "Portuguese"
+msgstr "Portuguese"
+
+#: iol-translation.php:101
+msgid "Arabic"
+msgstr "Arabic"
+
+#: iol-translation.php:102
+msgid "Turkish"
+msgstr "Turkish"
+
+#: iol-translation.php:103
+msgid "Thai"
+msgstr "Thai"
+
+#: iol-translation.php:104
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+#: iol-translation.php:105
+msgid "Denish"
+msgstr "Denish"
+
+#: iol-translation.php:106
+msgid "Norwegian"
+msgstr "Norwegian"
+
+#: iol-translation.php:107
+msgid "Finnish"
+msgstr "Finnish"
+
+#: iol-translation.php:108
+msgid "Greek"
+msgstr "Greek"
+
+#: iol-translation.php:109
+msgid "Polish"
+msgstr "Polish"
+
+#: iol-translation.php:110
+msgid "Romanian"
+msgstr "Romanian"
+
+#: iol-translation.php:111
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+#: iol-translation.php:112
+msgid "Czech"
+msgstr "Czech"
+
+#: iol-translation.php:113
+msgid "Slovak"
+msgstr "Slovak"
+
+#: iol-translation.php:114
+msgid "Hungarian"
+msgstr "Hungarian"
+
+#: iol-translation.php:115
+msgid "Rabbinic"
+msgstr "Rabbinic"
+
+#: iol-translation.php:116
+msgid "Swedish"
+msgstr "Swedish"
+
+#: iol-translation.php:117
+msgid "Croatian"
+msgstr "Croatian"
+
+#: iol-translation.php:118
+msgid "Albanian"
+msgstr "Albanian"
+
+#: iol-translation.php:119
+msgid "Traditional Chinese (Taiwan)"
+msgstr "Traditional Chinese (Taiwan)"
+
+#: iol-translation.php:120
+msgid "Traditional Chinese (HongKong)"
+msgstr "Traditional Chinese (HongKong)"
+
+#: iol-translation.php:121
+msgid "Korean"
+msgstr "Korean"
+
+#: iol-translation.php:122
+msgid "Serbian"
+msgstr "Serbian"
+
+#: iol-translation.php:123
+msgid "Portuguese(Brazil)"
+msgstr "Portuguese(Brazil)"
+
+#: action/admin_account.php:15
+msgid "Authentication success"
+msgstr "Authentication success"
+
+#: action/admin_account.php:20
+msgid "Email account and password do not match"
+msgstr "Email account and password do not match"
+
+#: action/admin_account.php:36
+msgid "User Account"
+msgstr "User Account"
+
+#: action/admin_account.php:45 action/admin_account.php:67
+msgid "Email"
+msgstr "Email"
+
+#: action/admin_account.php:49
+msgid "Password"
+msgstr "Password"
+
+#: action/admin_account.php:56
+msgid "New to IOL"
+msgstr "New to IOL"
+
+#: action/admin_account.php:56
+msgid "Register now"
+msgstr "Register now"
+
+#: action/admin_account.php:74
+msgid "Logout"
+msgstr "Logout"
+
+#: action/admin_languages.php:22 action/admin_languages.php:30
+#: action/admin_languages.php:31
+#: lib/init/iol_translation_admin_init_menu.class.php:90
+msgid "Languages"
+msgstr "Languages"
+
+#: action/admin_languages.php:56
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: action/admin_order.php:37
+msgid "Id"
+msgstr "Id"
+
+#: action/admin_order.php:51 action/admin_show_order_details.php:13
+msgid "Order ID"
+msgstr "Order ID"
+
+#: action/admin_order.php:63 action/admin_show_order_details.php:70
+msgid "Created At"
+msgstr "Created At"
+
+#: action/admin_order.php:76 action/admin_show_order_details.php:33
+msgid "Payment Status"
+msgstr "Payment Status"
+
+#: action/admin_order.php:88 action/admin_show_order_details.php:43
+msgid "Translation Status"
+msgstr "Translation Status"
+
+#: action/admin_order.php:100 action/admin_show_order_details.php:23
+#: action/admin_show_order_details.php:69
+msgid "Price"
+msgstr "Price"
+
+#: action/admin_order.php:112
+msgid "Level"
+msgstr "Level"
+
+#: action/admin_order.php:123
+msgid "Action"
+msgstr "Action"
+
+#: action/admin_order.php:135 action/admin_show_order_details.php:34
+msgid "unpaid"
+msgstr "unpaid"
+
+#: action/admin_order.php:135 action/admin_show_order_details.php:34
+msgid "paid"
+msgstr "paid"
+
+#: action/admin_order.php:136 action/admin_show_order_details.php:44
+msgid "pending"
+msgstr "pending"
+
+#: action/admin_order.php:136 action/admin_show_order_details.php:44
+msgid "done"
+msgstr "done"
+
+#: action/admin_order.php:138 action/admin_show_order_details.php:19
+#: action/official_meta_box.php:34 action/unofficial_meta_box.php:40
+#: lib/bulk/iol_translation_bulk_post.class.php:80
+#: lib/bulk/iol_translation_bulk_term.class.php:75
+msgid "Professional translation"
+msgstr "Professional translation"
+
+#: action/admin_order.php:138 action/admin_show_order_details.php:19
+#: action/official_meta_box.php:35 action/unofficial_meta_box.php:41
+#: lib/bulk/iol_translation_bulk_post.class.php:81
+#: lib/bulk/iol_translation_bulk_term.class.php:76
+msgid "Standard translation"
+msgstr "Standard translation"
+
+#: action/admin_order.php:142 action/admin_order.php:144
+msgid "Delete"
+msgstr "Delete"
+
+#: action/admin_order.php:147
+msgid "Pay"
+msgstr "Pay"
+
+#: action/admin_order.php:167 action/admin_show_order_details.php:103
+msgid "&laquo;"
+msgstr ""
+
+#: action/admin_order.php:168 action/admin_show_order_details.php:104
+msgid "&raquo;"
+msgstr ""
+
+#: action/admin_order.php:182
+msgid "After you delete the current record"
+msgstr "After you delete the current record"
+
+#: action/admin_order.php:182
+msgid "is not recoverable"
+msgstr "is not recoverable"
+
+#: action/admin_order.php:182
+msgid "Are you sure to delete the current record"
+msgstr "Are you sure to delete the current record"
+
+#: action/admin_show_order_details.php:18
+msgid "Translation Level"
+msgstr "Translation Level"
+
+#: action/admin_show_order_details.php:28
+#: action/admin_show_order_details.php:66
+msgid "Word Count"
+msgstr "Word Count"
+
+#: action/admin_show_order_details.php:38
+msgid "Payment Transaction"
+msgstr "Payment Transaction"
+
+#: action/admin_show_order_details.php:63
+msgid "ID"
+msgstr "ID"
+
+#: action/admin_show_order_details.php:64
+msgid "Manuscript ID"
+msgstr "Manuscript ID"
+
+#: action/admin_show_order_details.php:65
+msgid "Type"
+msgstr "Type"
+
+#: action/admin_show_order_details.php:67
+msgid "Source Language"
+msgstr "Source Language"
+
+#: action/admin_show_order_details.php:68
+msgid "Target Language"
+msgstr "Target Language"
+
+#: action/admin_show_order_details.php:71
+msgid "Translation Time"
+msgstr "Translation Time"
+
+#: action/official_meta_box.php:20 action/unofficial_meta_box.php:26
+#: lib/bulk/iol_translation_bulk_post.class.php:66
+#: lib/bulk/iol_translation_bulk_term.class.php:61
+msgid "Translation from"
+msgstr "Translation from"
+
+#: action/official_meta_box.php:26 action/unofficial_meta_box.php:32
+#: lib/bulk/iol_translation_bulk_post.class.php:72
+#: lib/bulk/iol_translation_bulk_term.class.php:67
+msgid "into"
+msgstr "into"
+
+#: action/official_meta_box.php:32 action/unofficial_meta_box.php:38
+#: lib/bulk/iol_translation_bulk_post.class.php:78
+#: lib/bulk/iol_translation_bulk_term.class.php:73
+msgid "using"
+msgstr "using"
+
+#: action/official_meta_box.php:38
+#: lib/bulk/iol_translation_bulk_post.class.php:23
+#: lib/bulk/iol_translation_bulk_post.class.php:24
+#: lib/bulk/iol_translation_bulk_term.class.php:19
+#: lib/bulk/iol_translation_bulk_term.class.php:20
+msgid "Inquiry"
+msgstr "Inquiry"
+
+#: action/official_meta_box.php:44 action/unofficial_meta_box.php:51
+#: lib/bulk/iol_translation_bulk_post.class.php:91
+#: lib/bulk/iol_translation_bulk_term.class.php:86
+msgid "Translation requirements"
+msgstr "Translation requirements"
+
+#: action/official_meta_box.php:48
+msgid "Submit"
+msgstr "Submit"
+
+#: action/official_meta_box.php:49
+msgid "Cancel"
+msgstr "Cancel"
+
+#: action/official_meta_box.php:64 action/unofficial_meta_box.php:71
+#: lib/bulk/iol_translation_bulk_post.class.php:156
+#: lib/bulk/iol_translation_bulk_post.class.php:162
+#: lib/bulk/iol_translation_bulk_term.class.php:151
+#: lib/bulk/iol_translation_bulk_term.class.php:157
+msgid "please select items"
+msgstr "please select items"
+
+#: action/official_meta_box.php:69 action/unofficial_meta_box.php:76
+#: lib/bulk/iol_translation_bulk_post.class.php:167
+#: lib/bulk/iol_translation_bulk_term.class.php:162
+msgid "The source language and target language can not be same"
+msgstr "The source language and target language can not be same"
+
+#: action/unofficial_meta_box.php:6
+#: lib/init/iol_translation_admin_init_menu.class.php:68
+#: lib/init/iol_translation_admin_init_menu.class.php:69
+msgid "Translation"
+msgstr "Translation"
+
+#: action/unofficial_meta_box.php:21
+msgid "Translation same properties for all subcategories"
+msgstr "Translation same properties for all subcategories"
+
+#: lib/iol_translation_ajax_check_all_helper.php:9
+#: lib/iol_translation_ajax_check_all_helper.php:219
+#: lib/iol_translation_ajax_helper.php:10
+#: lib/iol_translation_ajax_helper.php:261
+msgid "Fail to inquiry"
+msgstr "Fail to inquiry"
+
+#: lib/iol_translation_ajax_check_all_helper.php:9
+#: lib/iol_translation_ajax_check_all_helper.php:219
+#: lib/iol_translation_ajax_helper.php:10
+#: lib/iol_translation_ajax_helper.php:261
+msgid "Please check your network"
+msgstr "Please check your network"
+
+#: lib/iol_translation_ajax_check_all_helper.php:9
+#: lib/iol_translation_ajax_check_all_helper.php:219
+#: lib/iol_translation_ajax_helper.php:10
+#: lib/iol_translation_ajax_helper.php:261
+msgid "or your account is valid"
+msgstr "or your account is valid"
+
+#: lib/iol_translation_ajax_check_all_helper.php:205
+#: lib/iol_translation_ajax_helper.php:544
+msgid "The order has been submitted"
+msgstr "The order has been submitted"
+
+#: lib/iol_translation_ajax_check_all_helper.php:208
+#: lib/iol_translation_ajax_helper.php:547
+msgid "Submit fails"
+msgstr "Submit fails"
+
+#: lib/iol_translation_ajax_check_all_helper.php:309
+#: lib/iol_translation_ajax_check_all_helper.php:375
+#: lib/iol_translation_ajax_check_all_helper.php:426
+#: lib/iol_translation_ajax_check_all_helper.php:477
+#: lib/iol_translation_ajax_helper.php:342
+#: lib/iol_translation_ajax_helper.php:407
+#: lib/iol_translation_ajax_helper.php:460
+#: lib/iol_translation_ajax_helper.php:511
+#: lib/iol_translation_ajax_helper.php:565
+msgid "It already exists in the orders"
+msgstr "It already exists in the orders"
+
+#: lib/iol_translation_ajax_check_all_helper.php:313
+#: lib/iol_translation_ajax_check_all_helper.php:379
+#: lib/iol_translation_ajax_check_all_helper.php:430
+#: lib/iol_translation_ajax_check_all_helper.php:481
+#: lib/iol_translation_ajax_helper.php:569
+msgid "Found"
+msgstr "Found"
+
+#: lib/iol_translation_ajax_check_all_helper.php:314
+#: lib/iol_translation_ajax_check_all_helper.php:380
+#: lib/iol_translation_ajax_check_all_helper.php:431
+#: lib/iol_translation_ajax_check_all_helper.php:482
+#: lib/iol_translation_ajax_helper.php:570
+msgid "attribute(s) in "
+msgstr "attribute(s) in "
+
+#: lib/iol_translation_ajax_check_all_helper.php:315
+#: lib/iol_translation_ajax_check_all_helper.php:381
+#: lib/iol_translation_ajax_check_all_helper.php:432
+#: lib/iol_translation_ajax_check_all_helper.php:483
+#: lib/iol_translation_ajax_helper.php:571
+msgid "item(s)"
+msgstr "item(s)"
+
+#: lib/iol_translation_ajax_check_all_helper.php:316
+#: lib/iol_translation_ajax_check_all_helper.php:382
+#: lib/iol_translation_ajax_check_all_helper.php:433
+#: lib/iol_translation_ajax_check_all_helper.php:484
+#: lib/iol_translation_ajax_helper.php:572
+msgid "attribute(s) need to be translated"
+msgstr "attribute(s) need to be translated"
+
+#: lib/iol_translation_ajax_check_all_helper.php:495
+#: lib/iol_translation_ajax_helper.php:533
+msgid "Contain"
+msgstr "Contain"
+
+#: lib/iol_translation_ajax_check_all_helper.php:495
+#: lib/iol_translation_ajax_helper.php:533
+msgid "words to translate"
+msgstr "words to translate"
+
+#: lib/iol_translation_ajax_check_all_helper.php:495
+#: lib/iol_translation_ajax_helper.php:533
+msgid "Translation costs"
+msgstr "Translation costs"
+
+#: lib/iol_translation_ajax_check_all_helper.php:497
+#: lib/iol_translation_ajax_check_all_helper.php:500
+#: lib/iol_translation_ajax_helper.php:535
+#: lib/iol_translation_ajax_helper.php:538
+msgid "Inquiry false"
+msgstr "Inquiry false"
+
+#: lib/iol_translation_ajax_helper.php:71
+#: lib/iol_translation_ajax_helper.php:119
+#: lib/iol_translation_ajax_helper.php:162
+#: lib/iol_translation_ajax_helper.php:202
+msgid "items"
+msgstr "items"
+
+#: lib/iol_translation_ajax_helper.php:71
+#: lib/iol_translation_ajax_helper.php:119
+#: lib/iol_translation_ajax_helper.php:162
+#: lib/iol_translation_ajax_helper.php:202
+msgid "have been transalted"
+msgstr "have been transalted"
+
+#: lib/iol_translation_ajax_helper.php:324
+#: lib/iol_translation_ajax_helper.php:389
+#: lib/iol_translation_ajax_helper.php:448
+#: lib/iol_translation_ajax_helper.php:499
+msgid "Your selection is empty"
+msgstr "Your selection is empty"
+
+#: lib/iol_translation_ajax_helper.php:324
+#: lib/iol_translation_ajax_helper.php:389
+#: lib/iol_translation_ajax_helper.php:448
+#: lib/iol_translation_ajax_helper.php:499
+msgid "this order was invalid"
+msgstr "this order was invalid"
+
+#: lib/iol_translation_ajax_helper.php:324
+#: lib/iol_translation_ajax_helper.php:389
+#: lib/iol_translation_ajax_helper.php:448
+#: lib/iol_translation_ajax_helper.php:499
+msgid "Please select again"
+msgstr "Please select again"
+
+#: lib/bulk/iol_translation_bulk_post.class.php:103
+#: lib/bulk/iol_translation_bulk_term.class.php:98
+msgid "Cancel Translation"
+msgstr "Cancel Translation"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:9
+msgid "IOL Translation"
+msgstr "IOL Translation"
+
+#: lib/init/iol_translation_Backadmin_init_menu.class.php:87
+msgid "Settings"
+msgstr "Settings"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:88
+msgid "Orders"
+msgstr "Orders"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:89
+msgid "Account"
+msgstr "Account"
+
+#: lib/init/iol_translation_admin_init_menu.class.php:91
+msgid "Demo"
+msgstr "Demo"
+
+#: action/admin_order.php:31
+msgid "Translation Orders"
+msgstr "Translation Orders"
+
+#: action/admin_show_order_details.php:120
+msgid "Back"
+msgstr "Back"
+
+#: action/admin_show_order_details.php:6
+msgid "order"
+msgstr "order"
+
+msgid "Updated successful"
+msgstr "Updated successful"
+
+msgid "Please select language"
+msgstr "Please select language"
+
+msgid "category(s)"
+msgstr "category(s)"
+
+msgid "tag(s)"
+msgstr "tag(s)"
+
+msgid "page(s)"
+msgstr "page(s)"

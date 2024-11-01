@@ -1,0 +1,40 @@
+table.iol-translation-table tr.table_body:hover{background-color: #FFF9E9;}
+.user_account_table input{width: 350px;}
+
+#iol_translation_change_languages td{padding: 3px 0px;}
+#iol_translation_change_languages td select{width: 150px;}
+#iol_translation_change_languages tr.language_title{font-weight: bold}
+
+
+.order_details_form_list td{height: 30px;}
+
+
+/*translation table*/
+#iol_translation_setting .second_row select{width: 170px;} 
+#iol_translation_setting .inquiry_loading{
+    background-image:url(../img/040.gif);
+    background-repeat: no-repeat;
+    display: none;
+} 
+
+#iol_translation_setting .iol_translation_error{color:red}
+
+
+.translate_order_manage .tablenav span.current{padding-left: 10px;padding-right: 10px;}
+table.iol-translation-table tr .manage-column a{display: block}
+table.iol-translation-table tr .manage-column:hover{background-color: #FFF9E9;}
+table.iol-translation-table tr .manage-column span.sort_asc{
+    background-image:url(../img/sort_asc.png);
+    background-repeat: no-repeat;
+    display: block;float: left;
+    height: 15px;width: 15px;
+    margin-top: 4px;margin-right: 3px;
+}
+
+table.iol-translation-table tr .manage-column span.sort_desc{
+    background-image:url(../img/sort_desc.png);
+    background-repeat: no-repeat;
+    display: block;float: left;
+    height: 15px;width: 15px;
+    margin-top: 4px;margin-right: 3px;
+}
